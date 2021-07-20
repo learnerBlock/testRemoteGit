@@ -1,0 +1,1 @@
+test github communication with local git server
